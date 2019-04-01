@@ -46,34 +46,3 @@ repo = 'itchyny/vim-highlighturl'
 
 [[plugins]]
 repo = 'vim-scripts/dbext.vim'
-
-[[plugins]]
-repo = 'vim-scripts/TwitVim'
-
-[[plugins]]
-repo = 'basyura/TweetVim'
-depends = [
-  'mattn/webapi-vim',
-  'basyura/twibill.vim',
-  'tyru/open-browser.vim',
-  'h1mesuke/unite-outline',
-  'basyura/bitly.vim'
-]
-
-# 
-# 依存
-# 
-[[plugins]]
-repo = 'mattn/webapi-vim'
-
-[[plugins]]
-repo = 'basyura/twibill.vim'
-
-[[plugins]]
-repo = 'tyru/open-browser.vim'
-
-[[plugins]]
-repo = 'h1mesuke/unite-outline'
-
-[[plugins]]
-repo = 'basyura/bitly.vim'
