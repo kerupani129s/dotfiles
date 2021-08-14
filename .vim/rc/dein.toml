@@ -46,3 +46,6 @@ repo = 'itchyny/vim-highlighturl'
 
 [[plugins]]
 repo = 'vim-scripts/dbext.vim'
+
+[[plugins]]
+repo = 'rust-lang/rust.vim'
